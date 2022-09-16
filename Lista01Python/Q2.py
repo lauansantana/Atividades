@@ -9,4 +9,5 @@ Após  isso,  deve  imprimir  na  tela  o  nome  do  usuário  e  o  ano  do  se
 nome = input('Olá, informe o seu nome: ')
 idade = int(input('Informe a sua idade: '))
 ano = 2022-idade
+
 print("{} nasceu no ano de {}.".format(nome, ano))

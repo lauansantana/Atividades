@@ -7,4 +7,5 @@ Usuário informa Idade=20 Programa imprime: Você já viveu 7300 dias. Isso sign
 idade = int(input('Informe a sua idade: '))
 dias = idade*365
 horas = dias*24
+
 print('Você já viveu {} dias. Isso significa {} horas.'.format(dias, horas))

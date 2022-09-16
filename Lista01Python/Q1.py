@@ -11,4 +11,5 @@ idade = int(input('Informe a sua idade: '))
 telefone = int(input('Informe o seu telefone:'))
 cargo = input('Informe o seu cargo: ')
 salario = float(input("Informe o seu salário: "))
+
 print('Cadastro realizado com sucesso.')

@@ -1,0 +1,2 @@
+#Questao4
+'''Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente.  O  algoritmo  deve  receber  o  código  de  um  produto  e  a  quantidade comprada e calcular o preço total, usando a tabela abaixo:'''
